@@ -1,0 +1,56 @@
+id,game_scope,owner,class,title,url,state,scope_notes
+JP-B2W2-PKM-ROOT,B2W2,Pokemon.co.jp,official-web,B2W2 root,https://www.pokemon.co.jp/ex/b2w2/,Enumerating,core site; news/media external destinations remain open
+JP-B2W2-PKM-STORY-ROOT,B2W2,Pokemon.co.jp,official-web,Story root,https://www.pokemon.co.jp/ex/b2w2/story/,Registered,core site page
+JP-B2W2-PKM-STORY1,B2W2,Pokemon.co.jp,official-web,Version differences,https://www.pokemon.co.jp/ex/b2w2/story/story01.html,Registered,core site page
+JP-B2W2-PKM-STORY2,B2W2,Pokemon.co.jp,official-web,N past/N Castle,https://www.pokemon.co.jp/ex/b2w2/story/story02.html,Registered,core site page
+JP-B2W2-PKM-STORY3,B2W2,Pokemon.co.jp,official-web,Black Tower/White Treehollow,https://www.pokemon.co.jp/ex/b2w2/story/story03.html,Registered,core site page
+JP-B2W2-PKM-CHAR-ROOT,B2W2,Pokemon.co.jp,official-web,Characters/protagonists,https://www.pokemon.co.jp/ex/b2w2/characters/,Registered,core site page
+JP-B2W2-PKM-CHAR01,B2W2,Pokemon.co.jp,official-web,Rival,https://www.pokemon.co.jp/ex/b2w2/characters/character01.html,Registered,character
+JP-B2W2-PKM-CHAR02,B2W2,Pokemon.co.jp,official-web,Colress,https://www.pokemon.co.jp/ex/b2w2/characters/character02.html,Registered,character
+JP-B2W2-PKM-CHAR03,B2W2,Pokemon.co.jp,official-web,Roxie,https://www.pokemon.co.jp/ex/b2w2/characters/character03.html,Registered,character
+JP-B2W2-PKM-CHAR04,B2W2,Pokemon.co.jp,official-web,Marlon,https://www.pokemon.co.jp/ex/b2w2/characters/character04.html,Registered,character
+JP-B2W2-PKM-CHAR05,B2W2,Pokemon.co.jp,official-web,Bianca,https://www.pokemon.co.jp/ex/b2w2/characters/character05.html,Registered,character
+JP-B2W2-PKM-CHAR06,B2W2,Pokemon.co.jp,official-web,Cheren,https://www.pokemon.co.jp/ex/b2w2/characters/character06.html,Registered,character
+JP-B2W2-PKM-CHAR07,B2W2,Pokemon.co.jp,official-web,Alder,https://www.pokemon.co.jp/ex/b2w2/characters/character07.html,Registered,character
+JP-B2W2-PKM-CHAR08,B2W2,Pokemon.co.jp,official-web,N,https://www.pokemon.co.jp/ex/b2w2/characters/character08.html,Registered,character
+JP-B2W2-PKM-CHAR09,B2W2,Pokemon.co.jp,official-web,Elesa,https://www.pokemon.co.jp/ex/b2w2/characters/character09.html,Registered,character
+JP-B2W2-PKM-CHAR10,B2W2,Pokemon.co.jp,official-web,Team Plasma member,https://www.pokemon.co.jp/ex/b2w2/characters/character10.html,Registered,character
+JP-B2W2-PKM-CHAR11,B2W2,Pokemon.co.jp,official-web,Iris,https://www.pokemon.co.jp/ex/b2w2/characters/character11.html,Registered,character
+JP-B2W2-PKM-CHAR12,B2W2,Pokemon.co.jp,official-web,Ghetsis,https://www.pokemon.co.jp/ex/b2w2/characters/character12.html,Registered,character
+JP-B2W2-PKM-CHAR13,B2W2,Pokemon.co.jp,official-web,Zinzolin,https://www.pokemon.co.jp/ex/b2w2/characters/character13.html,Registered,character
+JP-B2W2-PKM-CHAR14,B2W2,Pokemon.co.jp,official-web,Benga,https://www.pokemon.co.jp/ex/b2w2/characters/character14.html,Registered,character
+JP-B2W2-PKM-POKEMON-ROOT,B2W2,Pokemon.co.jp,official-web,Black/White Kyurem,https://www.pokemon.co.jp/ex/b2w2/pokemon/,Registered,Pokemon
+JP-B2W2-PKM-POKEMON01,B2W2,Pokemon.co.jp,official-web,New Unova Pokedex,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon01.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON02,B2W2,Pokemon.co.jp,official-web,Starters,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon02.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON03,B2W2,Pokemon.co.jp,official-web,Transfer/trade from BW and Gen IV,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon03.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON04,B2W2,Pokemon.co.jp,official-web,Kyurem fusion/DNA Splicers,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon04.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON05,B2W2,Pokemon.co.jp,official-web,Forces of Nature forms,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon05.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON06,B2W2,Pokemon.co.jp,official-web,Complete Unova Pokedex,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon06.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON07,B2W2,Pokemon.co.jp,official-web,Pokedex completion rewards,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon07.html,Registered,Pokemon
+JP-B2W2-PKM-POKEMON08,B2W2,Pokemon.co.jp,official-web,Legendary Pokemon,https://www.pokemon.co.jp/ex/b2w2/pokemon/pokemon08.html,Registered,Pokemon
+JP-B2W2-PKM-SYSTEM-ROOT,B2W2,Pokemon.co.jp,official-web,Pokestar Studios,https://www.pokemon.co.jp/ex/b2w2/system/,Registered,system
+JP-B2W2-PKM-SYSTEM01,B2W2,Pokemon.co.jp,official-web,Pokemon World Tournament,https://www.pokemon.co.jp/ex/b2w2/system/system01.html,Registered,system
+JP-B2W2-PKM-SYSTEM02,B2W2,Pokemon.co.jp,official-web,Funfest Mission,https://www.pokemon.co.jp/ex/b2w2/system/system02.html,Registered,system
+JP-B2W2-PKM-SYSTEM03,B2W2,Pokemon.co.jp,official-web,Join Avenue,https://www.pokemon.co.jp/ex/b2w2/system/system03.html,Registered,system
+JP-B2W2-PKM-SYSTEM04,B2W2,Pokemon.co.jp,official-web,Xtransceiver minigame,https://www.pokemon.co.jp/ex/b2w2/system/system04.html,Registered,system
+JP-B2W2-PKM-SYSTEM05,B2W2,Pokemon.co.jp,official-web,Medal System,https://www.pokemon.co.jp/ex/b2w2/system/system05.html,Registered,system
+JP-B2W2-PKM-SYSTEM06,B2W2,Pokemon.co.jp,official-web,Key System,https://www.pokemon.co.jp/ex/b2w2/system/system06.html,Registered,system
+JP-B2W2-PKM-SYSTEM07,B2W2,Pokemon.co.jp,official-web,Memory Link,https://www.pokemon.co.jp/ex/b2w2/system/system07.html,Registered,system
+JP-B2W2-PKM-SYSTEM08,B2W2,Pokemon.co.jp,official-web,Habitat list,https://www.pokemon.co.jp/ex/b2w2/system/system08.html,Registered,system
+JP-B2W2-PKM-SYSTEM09,B2W2,Pokemon.co.jp,official-web,Communication battles/trades,https://www.pokemon.co.jp/ex/b2w2/system/system09.html,Registered,system
+JP-B2W2-PKM-SYSTEM10,B2W2,Pokemon.co.jp,official-web,Other communication functions,https://www.pokemon.co.jp/ex/b2w2/system/system10.html,Registered,system
+JP-B2W2-PKM-DLSOFT,B2W2,Pokemon.co.jp,official-web,Download software,https://www.pokemon.co.jp/ex/b2w2/dlsoft/,Registered,download software
+JP-B2W2-PKM-AR,B2W2,Pokemon.co.jp,official-web,Pokemon Dream Radar / AR Searcher,https://www.pokemon.co.jp/ex/ar_searcher/,Registered,3DS software
+JP-B2W2-PKM-ZUKAN,B2W2,Pokemon.co.jp,official-web,Pokedex 3D Pro,https://www.pokemon.co.jp/ex/zenkokuzukan_pro/,Registered,3DS software
+JP-B2W2-PKM-PRODUCT,B2W2,Pokemon.co.jp,official-web,Product info,https://www.pokemon.co.jp/ex/b2w2/product/,Registered,product
+JP-B2W2-PKM-NEWS,B2W2,Pokemon.co.jp,official-web,News index,https://www.pokemon.co.jp/ex/b2w2/news/,Enumerating,news index; child notices Enumerating
+JP-B2W2-NIN-ROOT,B2W2,Nintendo,official-web,Nintendo B2W2 root,https://www.nintendo.co.jp/ds/irej/index.html,Registered,Nintendo B2W2
+JP-B2W2-NIN-STORY,B2W2,Nintendo,official-web,Story,https://www.nintendo.co.jp/ds/irej/story/index.html,Registered,Nintendo B2W2
+JP-B2W2-NIN-ADVENTURE,B2W2,Nintendo,official-web,Adventure,https://www.nintendo.co.jp/ds/irej/adventure/index.html,Registered,Nintendo B2W2
+JP-B2W2-NIN-COMM,B2W2,Nintendo,official-web,Communication,https://www.nintendo.co.jp/ds/irej/communication/index.html,Registered,Nintendo B2W2
+JP-B2W2-NIN-IWATA-1,B2W2,Nintendo,developer-interview,Two sequels and two years later,https://www.nintendo.co.jp/ds/interview/irej/vol1/index.html,Enumerated-core,Iwata Asks
+JP-B2W2-NIN-IWATA-2,B2W2,Nintendo,developer-interview,100-person play,https://www.nintendo.co.jp/ds/interview/irej/vol1/index2.html,Enumerated-core,Iwata Asks
+JP-B2W2-NIN-IWATA-3,B2W2,Nintendo,developer-interview,Space fantasy / Key System,https://www.nintendo.co.jp/ds/interview/irej/vol1/index3.html,Enumerated-core,Iwata Asks
+JP-B2W2-NIN-IWATA-4,B2W2,Nintendo,developer-interview,Pokemon Center in starting town,https://www.nintendo.co.jp/ds/interview/irej/vol1/index4.html,Enumerated-core,Iwata Asks
+JP-B2W2-NIN-IWATA-5,B2W2,Nintendo,developer-interview,What Pokemon values,https://www.nintendo.co.jp/ds/interview/irej/vol1/index5.html,Enumerated-core,Iwata Asks
+JP-B2W2-NIN-IWATA-6,B2W2,Nintendo,developer-interview,Three sacred treasures,https://www.nintendo.co.jp/ds/interview/irej/vol1/index6.html,Enumerated-core,Iwata Asks
