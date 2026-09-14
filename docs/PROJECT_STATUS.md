@@ -1,8 +1,8 @@
 # Project Status
 
-**Current stage:** Public-source survey and reconstruction baseline
+**Current stage:** Exhaustive public-source census and reconstruction baseline
 
-This project currently assumes no local retail ROM baseline is available. Work therefore starts from public official material, preservation metadata, technical implementations, reverse-engineering research, and independently published evidence.
+This project assumes no local retail ROM baseline is available. Work therefore starts from public official material, preservation metadata, technical implementations, reverse-engineering research, historical web captures, and independently published evidence.
 
 ## Current baseline policy
 
@@ -12,6 +12,22 @@ This project currently assumes no local retail ROM baseline is available. Work t
 - Unknown fields remain `TBD`/`Unknown`; no revision, hash, offset, or build identity is invented.
 - Public hashes and catalogue metadata are reference evidence until independently verified under `VERIFICATION.md`.
 - Research is integrated only when committed to GitHub; retail ROM binaries remain excluded.
+- **Subsystem reconstruction never replaces the exhaustive public-source census. Registered source classes remain open until their relevant child pages/files/releases/records are enumerated or explicitly documented as unavailable/blocked.**
+
+## Source-census priority
+
+- [x] Create exhaustive source-class registry (`docs/SOURCE_REGISTRY.md`).
+- [x] Add machine-readable source inventory (`manifests/source-registry.csv`).
+- [x] Register official JP/KR/US/EU/AU roots, manuals and online-service history.
+- [x] Register preservation roots for Gen V events, Dream World, C-Gear, Pokédex skins, Musicals, PWT and server-format DLC.
+- [x] Register major public Gen V code/tools and Nintendo DS format infrastructure.
+- [x] Register unused/prerelease, secondary-reference, catalog/revision, physical-scan, guide, magazine, soundtrack and bug-research classes.
+- [ ] Enumerate every relevant child page/file/release/record under every registered source root.
+- [ ] Enumerate Internet Archive/Wayback captures for dead official, PGL, Dream World and regional sites.
+- [ ] Enumerate every official event/distribution/service notice by region and language.
+- [ ] Enumerate historical Gen V tools/research whose original hosting disappeared.
+- [ ] Resolve blocked TCRF material through indexed/archived evidence without inventing inaccessible content.
+- [ ] Do not mark `all public sources surveyed` while any mandatory class remains `Enumerating`, `Candidate`, `Blocked`, or otherwise unresolved.
 
 ## Version inventory status
 
@@ -28,24 +44,17 @@ This project currently assumes no local retail ROM baseline is available. Work t
 ## Technical reconstruction progress
 
 - [x] Repository policy, asset workflow, verification rules, and long-term structure established.
-- [x] Public-source survey policy added.
-- [x] Regional survey matrix added.
-- [x] Evidence-backed NARC/NitroFS path catalog added (`docs/NARC_PATH_CATALOG.md`).
-- [x] Machine-readable NARC path inventory added (`manifests/narc-paths.csv`).
+- [x] Public-source survey policy and regional survey matrix added.
+- [x] Evidence-backed NARC/NitroFS path catalog and machine-readable inventory added.
 - [x] Record BW → B2W2 path relocation for scripts, trainers, overworlds, and encounters.
 - [x] Preserve the legacy PPRE B2W2 trainer/encounter mapping conflict instead of silently inheriting it.
 - [x] Record B2W2-specific path leads for ZoneData, egg moves, PWT, Hidden Grotto, shops, trades, trainer graphics, and move animations.
 - [ ] Identify the exact region/revision represented by the public Black 2 Raw DB tree.
-- [ ] Import the complete 308-entry Raw DB archive census while preserving unknown roles.
+- [ ] Import the complete Raw DB archive census while preserving unknown roles.
 - [ ] Resolve Japanese launch revision before treating any archive census as canonical Japan baseline.
-- [ ] Document executable and section layout.
-- [ ] Map ARM9, ARM7, overlays, symbols, functions, and major subsystems.
-- [ ] Document game-data formats and resource containers at record/field level.
-- [ ] Reconstruct scripts, events, and behavior.
-- [ ] Reconstruct asset pipelines and metadata.
+- [ ] Document executable/section layout, ARM9/ARM7/overlays, symbols/functions, formats, scripts/events, asset pipelines, save/communication/online/distribution structures, unused/debug material and bugs.
 - [ ] Fully document B2W2-specific systems (PWT, Pokéstar Studios, Join Avenue, Hidden Grotto, Medal, Memory Link, Key System, Funfest Missions, Black Tower, difficulty modes).
-- [ ] Add reproducible tooling where evidence and lawful inputs permit.
-- [ ] Add automated verification where practical.
+- [ ] Add reproducible tooling and automated verification where practical.
 
 ## Current technical baseline
 
@@ -60,12 +69,12 @@ These findings remain public-source reconstruction evidence, not direct observat
 - **Reproduced** — recreated using documented steps, tooling, inputs, and target information.
 - **Matched** — reconstructed output satisfies a defined exact-match criterion.
 
-Research documents may additionally mark evidence as corroborated, direct technical, single-source, structural-only, or conflicted without promoting project-level verification.
+Research documents may additionally mark evidence as corroborated, direct technical, single-source, structural-only, preserved, or conflicted without promoting project-level verification.
 
 ## Next milestones
 
-1. Resolve Japanese `IREJ` launch revision identity.
-2. Identify the Raw DB source build and import its complete archive census.
-3. Expand high-value NARCs into record/field structures: personal data, moves, learnsets/evolutions, trainers, encounters, scripts, ZoneData/maps, Hidden Grotto, PWT, and shops.
-4. Continue Japanese-baseline-to-region comparison at actual resource/data level.
-5. Keep `VERSIONS.md`, `REGIONAL_SURVEY_MATRIX.md`, `NARC_PATH_CATALOG.md`, manifests, and this status synchronized.
+1. Enumerate the registered public-source universe source-by-source and file/page-by-file/page before narrowing the project to any one subsystem.
+2. Expand Japanese official sources first, then every regional/language official and archival branch.
+3. Enumerate preservation/event/DLC collections and public code repositories at item/file level.
+4. Resolve Japanese `IREJ` launch revision identity and identify the Raw DB source build in parallel without treating those tasks as the whole survey.
+5. Keep `SOURCE_REGISTRY.md`, source manifest, `VERSIONS.md`, regional matrix, NARC catalog and this status synchronized.
